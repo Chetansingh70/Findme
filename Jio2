@@ -1,7 +1,8 @@
 # Pushed & updated by CloudPlay
 # Telegram: https://t.me/cloudply
 
-#EXTM3U
+#EXTINF:-1 group-title="All Channels",kids
+https://pastefy.app/W1p1VecD/raw
 
 #EXTINF:-1 tvg-id="203" tvg-name="DD News" tvg-logo="https://img.media.jio.com/imagespublic/30/71/DDNews_1574777483286_tv.jpg" group-title="DD Channels",DD News
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
