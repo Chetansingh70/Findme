@@ -1,1 +1,3 @@
 #EXTM3U
+#EXTINF:-1 group-title="All Kids",Kids.m3u
+https://raw.githubusercontent.com/pocket-tamil/m3u_source/refs/heads/main/live-events.m3u
